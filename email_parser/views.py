@@ -11,7 +11,7 @@ from .email_analyzer import analyze_email
 logger = logging.getLogger(__name__)
 
 # Configure Google Gemini API
-API_KEY = "AIzaSyDgi3nN7l5fXQ_c97nclS3v95-8ggPgT50"  # Replace with your actual Gemini API key
+API_KEY = "AIzaSyBIHDAHMkYH-aNZ0Xdx3-s9PLV3SMuhb1o"  # Replace with your actual Gemini API key
 genai.configure(api_key=API_KEY)
 
 def base(request):
