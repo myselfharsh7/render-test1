@@ -28,6 +28,7 @@ pyparsing==3.2.0
 requests==2.32.3
 requests-file==2.1.0
 resolver
+Resolver
 rsa==4.9
 sqlparse==0.5.1
 tldextract==5.1.3
